@@ -9,7 +9,7 @@ El presente repositorio resuelve lo solicitado en el siguiente documento:
 
 ### 1. Notebook con el desarrollo
 
-La ejecución de cada paso se encuentra disponible en el siguiete notebook: [Código desarrollo del proyecto](./portafolio_modulo3.ipynb). El archivo se ha divido en secciones en base a cada paso pedido en los requisitos del proyecto.
+La ejecución de cada paso se encuentra disponible en el siguiente notebook: [Código desarrollo del proyecto](./portafolio_modulo3.ipynb). El archivo se ha dividido en secciones en base a cada paso pedido en los requisitos del proyecto.
 
 ### 2. Documento resumen del flujo de trabajo
 
