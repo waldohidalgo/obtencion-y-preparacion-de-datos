@@ -2,7 +2,7 @@
 
 ## Descripción y requisitos del proyecto
 
-El presente repositorio resuelve lo solicitado en el siguiente documento:
+El presente repositorio presenta la resolución a lo solicitado en el siguiente documento:
 [4. Proyecto ABP* Obtención y preparación de datos * M3 _ Ing. de datos _ SOFOFA.pdf](https://drive.google.com/file/d/155pH8qGPrTT5rs_3XFSFN0_gIElHkk6u/view?usp=drive_link)
 
 ## Desarrollo
