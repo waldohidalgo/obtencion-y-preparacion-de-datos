@@ -25,4 +25,4 @@ Al finalizar el proyecto se generan dos archivos con data consolidada exigiendos
 
 ## Material Adicional
 
-Por último, he creado pruebas adicionales de mi proceso de aprendizaje la cual corresponde al desarrollo y explicación de cada problema visto en clases en los cuales se exige desarrollo. El archivo es un notebook y se encuentra disponible en el siguiente link: [Desarrollo de problemas de clases](./ejercicios_clases_modulo3.ipynb)
+Por último, he creado pruebas adicionales de mi proceso de aprendizaje. Dichas pruebas corresponden al desarrollo y explicación a los problemas presentados al finalizar cada clase y que son exigidos desarrollar en cierto tiempo. El archivo es un notebook y se encuentra disponible en el siguiente link: [Desarrollo de problemas de clases](./ejercicios_clases_modulo3.ipynb)
